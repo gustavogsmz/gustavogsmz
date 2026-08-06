@@ -33,13 +33,13 @@ Também aplico Inteligência Artificial em produtos reais, criando insights para
 ### Linguagens
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,js,html,css,sql&theme=dark" alt="C#, JavaScript, HTML, CSS and SQL" />
+  <img src="https://skillicons.dev/icons?i=cs,js&theme=dark" alt="C# e JavaScript" />
 </div>
 
 ### Frontend
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,bootstrap,jquery&theme=dark" alt="ASP.NET, Bootstrap and jQuery" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery&theme=dark" alt="HTML, CSS, Bootstrap e jQuery" />
   <br/><br/>
   <img src="https://img.shields.io/badge/Razor_Views-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Razor Views" />
   <img src="https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET MVC" />
@@ -213,6 +213,7 @@ Experiência que desenvolveu uma visão ampla sobre ambientes corporativos, supo
 
 <br/><br/>
 
+[![Seguidores](https://img.shields.io/github/followers/gustavogsmz?style=for-the-badge&color=6D28D9&label=SEGUIDORES)](https://github.com/gustavogsmz?tab=followers)
 [![Repositórios](https://img.shields.io/badge/REPOSITÓRIOS-7-4F46E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavogsmz?tab=repositories)
 [![Contribuições](https://img.shields.io/badge/CONTRIBUIÇÕES_ANUAIS-862-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavogsmz)
 
@@ -292,6 +293,8 @@ explorando:
 ![Rodapé](https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:4C1D95&height=120&section=footer)
 
 </div>
+
+
 
 
 
