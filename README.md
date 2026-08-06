@@ -5,16 +5,13 @@
 [![Texto animado](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Desenvolvendo+aplica%C3%A7%C3%B5es+confi%C3%A1veis+com+.NET;Transformando+necessidades+em+software+manuten%C3%ADvel;Automatizando+processos+com+IA+e+Background+Services)](https://git.io/typing-svg)
 
 ![Formação](https://img.shields.io/badge/Formação-Análise_e_Desenvolvimento_de_Sistemas-6D28D9?style=flat-square&logo=academia&logoColor=white)
-![Foco](https://img.shields.io/badge/Foco-Engenharia_de_Software-4F46E5?style=flat-square&logo=dotnet&logoColor=white)
-![Localização](https://img.shields.io/badge/Brasil-Remoto-7C3AED?style=flat-square&logo=googlemaps&logoColor=white)
+![Foco](https://img.shields.io/badge/Foco-Desenvolvimento_de_Software-4F46E5?style=flat-square&logo=dotnet&logoColor=white)
+![Localização](https://img.shields.io/badge/Brasil-Presencial-7C3AED?style=flat-square&logo=googlemaps&logoColor=white)
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-gustavogsmz-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavogsmz)
 [![Portfólio](https://img.shields.io/badge/PORTFÓLIO-GITHUB-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavogsmz)
 [![GitHub](https://img.shields.io/badge/GITHUB-gustavogsmz-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavogsmz)
 
-![Visualizações](https://komarev.com/ghpvc/?username=gustavogsmz&style=flat-square&color=7C3AED&label=VISUALIZAÇÕES)
-[![Seguidores](https://img.shields.io/github/followers/gustavogsmz?style=flat-square&color=6D28D9&label=SEGUIDORES)](https://github.com/gustavogsmz?tab=followers)
-[![Estrelas](https://img.shields.io/github/stars/gustavogsmz?affiliations=OWNER&style=flat-square&color=4F46E5&label=ESTRELAS)](https://github.com/gustavogsmz?tab=repositories)
 
 </div>
 
@@ -28,9 +25,6 @@ Atuo em diferentes partes do ciclo de desenvolvimento: interfaces com Razor View
 
 Também aplico Inteligência Artificial em produtos reais, criando insights para dashboards, automações de relatórios e assistentes virtuais. Minha abordagem combina engenharia de software e visão de produto para compreender o problema do negócio e entregar soluções que possam evoluir com segurança.
 
-```text
-ABERTO A | Desafios Full Stack .NET | Produtos com IA | Colaboração e aprendizado
-```
 
 ---
 
@@ -39,7 +33,7 @@ ABERTO A | Desafios Full Stack .NET | Produtos com IA | Colaboração e aprendiz
 ### Linguagens
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,js,html,css,sql&theme=dark" alt="C#, JavaScript, HTML, CSS e SQL" />
+  <img src="https://skillicons.dev/icons?i=cs,js,html,css,sql&theme=dark" alt="C#, JavaScript, HTML, CSS and SQL" />
 </div>
 
 ### Frontend
@@ -54,7 +48,7 @@ ABERTO A | Desafios Full Stack .NET | Produtos com IA | Colaboração e aprendiz
 ### Backend e bancos de dados
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,postgres&theme=dark" alt=".NET e PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=dotnet,postgres&theme=dark" alt=".NET and PostgreSQL" />
   <br/><br/>
   <img src="https://img.shields.io/badge/Entity_Framework-6D28D9?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework" />
   <img src="https://img.shields.io/badge/Dapper-4F46E5?style=for-the-badge&logo=databricks&logoColor=white" alt="Dapper" />
@@ -64,10 +58,10 @@ ABERTO A | Desafios Full Stack .NET | Produtos com IA | Colaboração e aprendiz
 ### DevOps e ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman&theme=dark" alt="Git, GitHub, Visual Studio, VS Code e Postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman&theme=dark" alt="Git, GitHub, Visual Studio, VS Code and Postman" />
   <br/><br/>
   <img src="https://img.shields.io/badge/Git_Flow-6D28D9?style=for-the-badge&logo=git&logoColor=white" alt="Git Flow" />
-  <img src="https://img.shields.io/badge/Unit_Testing-4F46E5?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="Testes unitários" />
+  <img src="https://img.shields.io/badge/Unit_Testing-4F46E5?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="Unit Testing" />
   <img src="https://img.shields.io/badge/Scrum-312E81?style=for-the-badge&logo=jira&logoColor=white" alt="Scrum" />
 </div>
 
@@ -149,7 +143,7 @@ Espaço público dedicado a estudos e experimentação, sem métricas ou resulta
 
 Desenvolvimento e evolução de aplicações web com atuação em frontend, backend, dados e fluxos de entrega.
 
-- Desenvolvimento e manutenção de aplicações com C#, .NET e ASP.NET MVC/Core
+- Desenvolvimento e manutenção de aplicações com C#, .NET and ASP.NET MVC/Core
 - Modelagem e otimização de bancos de dados PostgreSQL e consultas SQL
 - Acesso a dados utilizando Entity Framework e Dapper
 - Construção de interfaces com Razor Views, JavaScript, Bootstrap e jQuery
@@ -180,7 +174,7 @@ Experiência que desenvolveu uma visão ampla sobre ambientes corporativos, supo
 |:---:|:---|
 | **Pull Shark x3** | Reconhecimento do GitHub por colaboração em Pull Requests aprovados |
 | **Quickdraw** | Reconhecimento do GitHub por interação ágil em Issues e Pull Requests |
-| **862 contribuições** | Atividade exibida no período anual do perfil durante a criação deste README |
+| **862 contributions** | Atividade exibida no período anual do perfil durante a criação deste README |
 | **Formação acadêmica** | Graduação em Análise e Desenvolvimento de Sistemas |
 
 </div>
@@ -192,7 +186,7 @@ Experiência que desenvolveu uma visão ampla sobre ambientes corporativos, supo
 <div align="center">
 
 ![Formação](https://img.shields.io/badge/Análise_e_Desenvolvimento_de_Sistemas-Graduado-6D28D9?style=for-the-badge&logo=academia&logoColor=white)
-![Aprendizado](https://img.shields.io/badge/Aprendizado_Contínuo-Engenharia_de_Software-4F46E5?style=for-the-badge&logo=bookstack&logoColor=white)
+![Aprendizado](https://img.shields.io/badge/Aprendizado_Contínuo-Desenvolvimento_de_Software-4F46E5?style=for-the-badge&logo=bookstack&logoColor=white)
 
 </div>
 
@@ -219,7 +213,6 @@ Experiência que desenvolveu uma visão ampla sobre ambientes corporativos, supo
 
 <br/><br/>
 
-[![Seguidores](https://img.shields.io/github/followers/gustavogsmz?style=for-the-badge&color=6D28D9&label=SEGUIDORES)](https://github.com/gustavogsmz?tab=followers)
 [![Repositórios](https://img.shields.io/badge/REPOSITÓRIOS-7-4F46E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavogsmz?tab=repositories)
 [![Contribuições](https://img.shields.io/badge/CONTRIBUIÇÕES_ANUAIS-862-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavogsmz)
 
@@ -262,25 +255,20 @@ Experiência que desenvolveu uma visão ampla sobre ambientes corporativos, supo
 ## Foco atual
 
 ```yaml
-aprendendo:
-  - práticas avançadas de engenharia de software
-  - arquitetura escalável de aplicações .NET
-  - padrões responsáveis de integração com IA
-
 desenvolvendo:
-  - aplicações web Full Stack confiáveis
-  - automações com processamento em segundo plano
-  - funcionalidades de produto com IA
+  - sistemas web robustos e manuteníveis
+  - produtos confiáveis e escaláveis
+  - funcionalidades alinhadas às necessidades do negócio
+
+aprimorando:
+  - arquitetura e organização de aplicações .NET
+  - performance de aplicações e bancos de dados
+  - qualidade de código, testes e processos de publicação
 
 explorando:
-  - observabilidade e performance
-  - arquiteturas de integração manuteníveis
-  - produtividade no desenvolvimento com IA
-
-aberto_a:
-  - projetos desafiadores com .NET
-  - produtos de software integrados com IA
-  - colaboração e compartilhamento de conhecimento
+  - automação de processos
+  - integrações entre sistemas
+  - IA como recurso complementar para produtos e produtividade
 ```
 
 ---
@@ -299,11 +287,13 @@ aberto_a:
 
 <div align="center">
 
-**Engenharia é transformar problemas reais em software que continua gerando valor.**
+**Desenvolver software é transformar problemas reais em produtos confiáveis, escaláveis e que geram valor.**
 
 ![Rodapé](https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:4C1D95&height=120&section=footer)
 
 </div>
+
+
 
 
 
